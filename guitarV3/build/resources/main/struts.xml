@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<constant name="struts.ui.theme" value="simple" />
+	<constant name="conststruts.devMode" value="true"/>
+	<constant name="struts.i18n.encoding" value="utf-8" />
+	<!-- Struts2的所有Action都需位于package下 -->
+	<package name="guitarV3" namespace="" extends="struts-default" strict-method-invocation="false">
+		<action name="guitarSearch"  class="action.GuitarAction" method="searchGuitar">
+		</action>
+		
+		<action name="add"  class="action.GuitarAction" method="addGuitar">
+			<result>/WEB-INF/content/guitar.jsp</result>
+			<result name="error">/WEB-INF/content/error.jsp</result>
+		</action>
+		
+		<action name="del"  class="action.GuitarAction" method="delGuitar">
+			<result>/WEB-INF/content/guitar.jsp</result>
+			<result name="error">/WEB-INF/content/error.jsp</result>
+		</action>
+		
+		<action name="*">
+			<result>/WEB-INF/content/{1}.jsp</result>
+		</action>
+	</package>
+</struts>
