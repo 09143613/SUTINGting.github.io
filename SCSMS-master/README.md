@@ -2,7 +2,8 @@ l## SRS
 选课系统
 
 ## 项目结构
-![项目结构截图](image/project.png)
+![项目结构截图](image/结构图1.png)
+![项目结构截图](image/结构图2.png)
 
 ## ER图
 ![ER图](image/数据库结构.PNG)
