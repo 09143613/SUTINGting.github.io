@@ -1,11 +1,11 @@
-## SRS
+l## SRS
 选课系统
 
 ## 项目结构
 ![项目结构截图](image/project.png)
 
 ## ER图
-![ER图](image/数据结构图.PNG)
+![ER图](image/数据库结构.PNG)
 
 ## 系统领域类图
 ![ER图](image/diagram.png)
@@ -17,7 +17,7 @@
 ![登录界面截图](image/登录.png)
 
 ## 选课界面
-![选课界面截图](image/查看可选课程.PNG)
+![选课界面截图](image/查询可选课程.PNG)
 
 ## 选课提示(可提示是否已选，是否在培养计划内，先修课程是否达标)
 ![选课提示](image/查询可选课程.PNG)
@@ -49,7 +49,7 @@
 ## 测试（查询课程、添加课程、删除课程）
 ![](image/queryCoursetest.PNG)
 ![](image/addCoursetest.PNG)
-![](image/deleteCoursetest.PNG)
+![](image/delelteCoursetest.PNG)
 
 ## 测试（添加、删除、修改教师）
 ![](image/addProfessor.PNG)
