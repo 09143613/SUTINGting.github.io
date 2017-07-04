@@ -25,7 +25,7 @@
 ![选课提示](image/先修课程不达标.PNG)
 
 ## 查看已选同学
-![添加提示截图](image/查看已选课程.PNG)
+![添加提示截图](image/查看已选学生.PNG)
 
 ## 成绩查询
 ![成绩查询截图](image/成绩.PNG)
@@ -45,6 +45,7 @@
 ![添加课程截图](image/添加课程2.PNG)
 ![删除课程截图](image/删除课程1.PNG)
 ![删除课程截图](image/删除课程2.PNG)
+
 ## 测试（查询课程、添加课程、删除课程）
 ![](image/queryCoursetest.PNG)
 ![](image/addCoursetest.PNG)
