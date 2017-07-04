@@ -49,7 +49,7 @@ l## SRS
 ## 测试（查询课程、添加课程、删除课程）
 ![](image/queryCoursetest.PNG)
 ![](image/addCoursetest.PNG)
-![](image/delelteCoursetest.PNG)
+![](image/delelteCourse.PNG)
 
 ## 测试（添加、删除、修改教师）
 ![](image/addProfessor.PNG)
