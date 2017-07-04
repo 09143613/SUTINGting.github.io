@@ -1,11 +1,11 @@
-.PNG# SRS
+## SRS
 选课系统
 
 ## 项目结构
 ![项目结构截图](image/project.png)
 
 ## ER图
-![ER图](image/数据结构图)
+![ER图](image/数据结构图.PNG)
 
 ## 系统领域类图
 ![ER图](image/diagram.png)
@@ -53,4 +53,4 @@
 ## 测试（添加、删除、修改教师）
 ![](image/addProfessor.PNG)
 ![](image/deleteProfessor.PNG)
-![](image/updateProfessor.PNG)
+![](image/updateProfessorPNG.PNG)
